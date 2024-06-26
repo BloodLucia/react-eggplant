@@ -52,7 +52,7 @@ export const ItemsList: React.FC<Props> = (props) => {
               border-b-1 b-solid b="#EEE">
               <div row-start-1 col-start-1 row-end-3 col-end-2 text-24px w-48px h-48px
                 bg="#D8D8D8" rounded="50%" flex justify-center items-center>
-                😘
+                {item.tags?.[0].sign}
               </div>
               <div row-start-1 col-start-2 row-end-2 col-end-3>
                 {item.tags?.[0].name}
