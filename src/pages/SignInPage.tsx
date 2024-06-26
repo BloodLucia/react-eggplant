@@ -71,7 +71,7 @@ export const SignInPage: React.FC = () => {
           <div>或者点击 <span onClick={() => setData({email: 'thecvcoder@foxmail.com',code: '123456'})} text='red-500' style={{ cursor: 'pointer', fontWeight: 'bold' }}>填充邮箱和验证码</span> 直接登录</div>
           <div>验证码为:<span text='#7878ff'>123456</span>, 无需修改</div>
         </div>
-        <div mt-100px>
+        <div mt-20px>
           <button j-btn type="submit">登录</button>
         </div>
       </form>
