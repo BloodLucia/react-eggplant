@@ -1,0 +1,43 @@
+:root {
+  --un-shadow-color: rgba(0,0,0,0.25);
+  --z-default: 128;
+  --z-menu: 256;
+  --z-dialog: 512;
+  --z-popup: 1024;
+  --color-purple: #5C33BE;
+}
+*{margin:0; padding: 0; box-sizing: border-box;}
+*::after, *::before{ box-sizing: border-box; }
+a{color: inherit; text-decoration: none;}
+h1,h2,h3,h4,h5,h6{font-weight: normal;}
+ol,ul {list-style: none;}
+
+button, input{font: inherit;}
+code{font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;}
+html{
+  font-size: 16px;
+  font-family: -apple-system, Helvetica,  Arial, "Liberation Sans",
+    "PingFang SC", "Hiragino Sans GB", "Noto Sans CJK SC", "Source Han Sans SC",
+    "Source Han Sans CN", "Microsoft YaHei", "Wenquanyi Micro Hei", "WenQuanYi Zen Hei",
+    "ST Heiti", SimHei, "WenQuanYi Zen Hei Sharp", sans-serif;
+  overflow-x: hidden;
+}
+
+:focus {
+  outline: none;
+}
+
+::-webkit-scrollbar { display: none; }
+
+@media (min-width:500px) {
+  body {
+    background: #000;
+  }
+  #root{
+    background: white;
+    min-height: 100vh;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}

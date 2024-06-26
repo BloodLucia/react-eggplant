@@ -1,0 +1,9 @@
+.wrapper {
+  .selectedTab {
+    color: var(--color-purple);
+    font-weight: bold;
+  }
+  .selected{
+    border-color: var(--color-purple);
+  }
+}
