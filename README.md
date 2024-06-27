@@ -1,7 +1,8 @@
 # 茄子记账
-<img src="https://s21.ax1x.com/2024/06/26/pkyasPK.png" alt="image" style="width:300px;height:auto;">
-<img src="https://s21.ax1x.com/2024/06/26/pkyay8O.png" alt="image" style="width:300px;height:auto;">
-<img src="https://s21.ax1x.com/2024/06/26/pkya62D.png" alt="image" style="width:300px;height:auto;">
+
+| 主页 | 创建记账 | 统计图表 |
+|  --- |  ---    |   ---    |
+|<img src="https://s21.ax1x.com/2024/06/26/pkyasPK.png" width="250">|<img src="https://s21.ax1x.com/2024/06/26/pkyay8O.png" width="250">|<img src="https://s21.ax1x.com/2024/06/26/pkya62D.png" width="250">|
 
 
 ## What?
