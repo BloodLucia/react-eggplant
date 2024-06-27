@@ -14,3 +14,12 @@
 3. - [x] 统计图标
 4. - [ ] 导出数据
 5. - [ ] 记账提醒
+
+## Tech Stack
++ react
++ typescript
++ zustand
++ echarts
++ swr
++ mockjs
++ axios
