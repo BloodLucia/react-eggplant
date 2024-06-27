@@ -2,7 +2,7 @@
 
 | 主页 | 创建记账 | 统计图表 |
 |  --- |  ---    |   ---    |
-|<img src="https://s21.ax1x.com/2024/06/26/pkyasPK.png" width="250">|<img src="https://s21.ax1x.com/2024/06/26/pkyay8O.png" width="250">|<img src="https://s21.ax1x.com/2024/06/26/pkya62D.png" width="250">|
+|<img src="/screenshots/1.png" width="250" height="auto">|<img src="/screenshots/5.png" width="250" height="auto">|<img src="/screenshots/3.png" width="250" height="auto">|
 
 
 ## What?
